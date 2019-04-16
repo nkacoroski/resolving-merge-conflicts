@@ -21,4 +21,5 @@ class BoaConstrictor(Snake):
     
 class BoatConstrictor(BoaConstrictor):
     """Loose snakes sink ships?"""
-    pass
+    print("Abandon ship! Hugging snake on the loose!")
+
